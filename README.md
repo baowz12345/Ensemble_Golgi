@@ -1,1 +1,1 @@
-# MVVM
+# MVVM(Multi-Voting Machine Model)
